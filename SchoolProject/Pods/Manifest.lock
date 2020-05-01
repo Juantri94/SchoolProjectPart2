@@ -1,0 +1,16 @@
+PODS:
+  - StudentFramework (0.0.1)
+
+DEPENDENCIES:
+  - StudentFramework (from `../StudentFramework`)
+
+EXTERNAL SOURCES:
+  StudentFramework:
+    :path: "../StudentFramework"
+
+SPEC CHECKSUMS:
+  StudentFramework: 9c81ea6a83d564ce24089fac31d4c87f6a3ab542
+
+PODFILE CHECKSUM: 23d76c53ddb1408a375a32b83302cbe2a7b2d3dc
+
+COCOAPODS: 1.8.4
